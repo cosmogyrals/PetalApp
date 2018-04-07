@@ -1,2 +1,3 @@
 # PetalApp
-code for PedalApp
+
+This is a simple shiny app for the Coursera Data Products course.
